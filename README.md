@@ -1,0 +1,7 @@
+- 👋 Hi, I’m 清水 力
+- 👀 I’m interested in efficiency
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on blockchain tech
+- 📫 How to reach me hello.shimizu.chikara@gmail.com
+- 😄 Pronouns: desu
+- ⚡ Fun fact: The CIA employs magicians
